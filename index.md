@@ -14,18 +14,21 @@ title: "Home"
 
 
 
-Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University [expected graduation: February 2025]. 
+Hello and welcome! My name is Heyuan Huang. I graduated from Johns Hopkins University in 2025 with a PhD in Biomedical Engineering, focusing on medical imaging, ML/AI, and algoriothm development. Currently, I work as the deep learning and image processing scientist at [Current Surgical](https://www.currentsurgical.com/) 
 
-My reseach experience includes:
+My experience covers:
 
-* Machine learning 
 * X-ray computed tomography
+* Ultrasound
+* Machine learning 
+* Imaging Physics
 * Image Reconstruction
 * Image Registration
-* Imaging Physics
 * Medical Image Processing and Analysis
 * Interventional Radiology
+* UI/UX design for frontend apps
+* Deployment and maintenance HPC system and AI infrastructures
 
-My current projects focus on using learning-based methods for motion compensation in interventional cone-beam CT, addressing the one of the most difficult challenges facing CBCT imaging.
+At Current Surgical, my projects focus on developping reliable and high-accuracy algorithms to support a novel, high-precision surgical platform.
 
 Please feel free to checkout my [LinkedIn](https://www.linkedin.com/in/heyuan-huang-87374b129), [Resume/CV](HeyuanHuangResume.pdf), and [the research section](research.md) of this website for more details about my research and skills. Or, if you are interested, you are very welcome to check out the [Extra](aboutMe.md) section for the fun side of me.

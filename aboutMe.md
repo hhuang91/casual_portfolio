@@ -33,7 +33,7 @@ Below is a photo of my current studio. My proud and joy!
 
 ## My Pets
 
-How would life be complete without pets? We (I and my girlfriend) have a cat (American shorthair diluted calico) **AND** a dog (Samoyed). Feel free to find more about them below!
+How would life be complete without pets? We (I and my wife) have a cat (American shorthair diluted calico) **AND** a dog (Samoyed). Feel free to find more about them below!
 
 ### The cat, Morphe (pronounced morph-ee)
 
